@@ -4,8 +4,8 @@ Plugin URI: http://wordpress2.hoststreamsell.com
 Contributors: hoststreamsell
 Tags: sell,video,streaming,cart
 Requires at least: 3.3
-Tested up to: 3.4
-Version: 0.2
+Tested up to: 3.44
+Version: 0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
